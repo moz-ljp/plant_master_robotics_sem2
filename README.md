@@ -4,11 +4,9 @@
 A prototype system combining the VEX EXP robotics platform with Arduino to automate the planting and watering process of plants.
 
 
-
-
 ## Group Members (Group 20)
 
-- Thomas Gordge [@Nox-iv](https://github.com/Nox-iv)
+- Thomas Gordge - [@Nox-iv](https://github.com/Nox-iv)
     - Construction of horizontal gantry (from scratch)
     - Fabrication of multiple 3D printed elements (stands, gears etc)
     - Programming of gantry
