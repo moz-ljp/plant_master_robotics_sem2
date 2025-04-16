@@ -34,4 +34,5 @@ A prototype system combining the VEX EXP robotics platform with Arduino to autom
 - Add a light we can enable/disable to aid plant growth
 - Add container around plants to allow for humidity control
 
-
+## Demo
+- See videos in submission
