@@ -12,7 +12,7 @@ A prototype system combining the VEX EXP robotics platform with Arduino to autom
     - Construction of horizontal gantry (from scratch)
     - Fabrication of multiple 3D printed elements (stands, gears etc)
     - Programming of gantry
-    - Communication between VEX and Arduino
+    - Communication between Arduinos
 - Louis Putland - [@moz-ljp](https://github.com/moz-ljp)
     - Construction of pump system
     - Construction of vex arm and seed dispersal component
