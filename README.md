@@ -29,11 +29,6 @@ A prototype system combining the VEX EXP robotics platform with Arduino to autom
 - Automated watering of plants when signaled by moisture sensors
 
 
-## Demo
-
-Insert gif or link to demo
-
-
 ## Roadmap
 
 - Move seed disperal system onto gantry for longer gantry length
